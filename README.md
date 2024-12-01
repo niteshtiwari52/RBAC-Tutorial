@@ -1,5 +1,5 @@
 
-# RBAC-Tutorial( Role Based Access Controll Tutorail)
+# RBAC-Tutorial( Role Based Access control Tutorial)
 
 
 ## Tech Stack
