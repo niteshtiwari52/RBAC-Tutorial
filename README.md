@@ -20,6 +20,25 @@
 - **JWT (JSON Web Token)**: 
   - Implemented for secure user authentication. After login or registration, a JWT is issued to the user, which is then used to authenticate API requests and manage user sessions. This ensures stateless and secure communication between the client and server. In my case I am generating JWT token after verifying EMail OTP and rediercting user to dashboard to use the functionality of the Application.
 
+## Testing Credentials
+
+Below are the test credentials for different roles in the RBAC Tutorial project. Use these to test various role-based access controls within the application.
+
+### Admin
+- **Email:** admin1@gmail.com  
+- **Password:** password123
+
+### Project Manager
+- **Email:** p1@gmail.com  
+- **Password:** password@123
+
+### User
+- **Email:** user1@gmail.com  
+- **Password:** password@123
+
+> **Note:** These credentials are for testing purposes only and should not be used in a production environment.
+
+
 ## Run Locally
 
 ### Clone the project
